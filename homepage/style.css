@@ -8,9 +8,20 @@ html,body{
     text-align:center;
     background: rgb(158,215,255);
 background: linear-gradient(90deg, rgba(158,215,255,1) 0%, rgba(0,95,255,1) 100%);
+
 }
-div{
+div,section{
     text-align: center;
     margin: 20px auto;
+    font-family: 'Irish Grover',cursive;
+    font-size: 25px;
 }
-
+input{
+    font-family: 'Irish Grover',cursive;
+    font-size:25px;
+}
+i{
+    font-size: 40px;
+    padding: 10px 10px;
+    color: black;
+}
